@@ -1,4 +1,4 @@
-# RNN-HMM-Fusion-Forecasting
+# HMM-RNN-Fusion-Forecasting
 Economic forecasting using HMM and LSTM Fusion.
 
 ```
