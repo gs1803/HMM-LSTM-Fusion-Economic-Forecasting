@@ -1,0 +1,13 @@
+# OS GENERATED FILES #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# ENVIRONMENT FILES #
+*.env
+
+# PYTHON GENERATED #
+*.pyc
+__pycache__/
