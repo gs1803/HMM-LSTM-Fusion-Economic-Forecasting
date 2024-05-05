@@ -10,4 +10,7 @@ repository and install the packages using pip.
 pip install -r requirements.txt
 ```
 
+To fetch the new data using the data_loader.py file a valid api key is needed from FRED. That can be retrieved from
+https://fred.stlouisfed.org/docs/api/api_key.html
+
 *For some reason the HMM produces different results on google colab.* 
