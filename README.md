@@ -19,3 +19,8 @@ To fetch the new data using the data_loader.py file a valid api key is needed fr
 https://fred.stlouisfed.org/docs/api/api_key.html
 
 *For some reason the HMM produces different results on google colab.* 
+
+If you run into a maximum file path limitation error on windows, please follow the instructions in this link
+https://learn.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=registry
+
+Ensure that if the powershell script is used, the powershell console i sopened with admin privileges. 
