@@ -11,6 +11,3 @@
 # PYTHON GENERATED #
 *.pyc
 __pycache__/
-
-# GIT #
-.gitignore
