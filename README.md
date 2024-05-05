@@ -2,10 +2,12 @@
 
 ### Python Version = 3.11.7
 
-The paper can be found in the pdf file in the repo. To replicate the results the code has been provided.
-The main_loaded.ipynb loads the saved models instead of training them from scratch. To ensure no errors, 
-cloning the repository is not sufficient since it messes with the .pb files in the saved Models.
-Instead download the zip file of the repo to ensure smooth process.
+The Paper can be found at: https://drive.google.com/file/d/1Dx2qvpcEPRKrxKHy-0EF4DMuXFcBfcqP/view
+
+To replicate the results the code has been provided. The main_loaded.ipynb loads the saved models 
+instead of training them from scratch. To ensure no errors, cloning the repository is not sufficient 
+since it messes with the .pb files in the saved Models. Instead download the zip file of the repo 
+to ensure smooth process.
 
 ```
 pip install -r requirements.txt
