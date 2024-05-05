@@ -21,4 +21,4 @@ https://fred.stlouisfed.org/docs/api/api_key.html
 If you run into a maximum file path limitation error on windows, please follow the instructions in this link
 https://learn.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=registry
 
-Ensure that if the powershell script is used, the powershell console i sopened with admin privileges. 
+Ensure that if the powershell script is used, the powershell console is opened with admin privileges. 
